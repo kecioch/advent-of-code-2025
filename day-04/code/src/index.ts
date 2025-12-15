@@ -1,6 +1,6 @@
 //
 //   Advent of Code - Day 04
-//   Part A
+//   Part A & B
 //   Author: Kevin Cioch
 //
 
